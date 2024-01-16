@@ -21,7 +21,7 @@ This assignment is based on the industry visit to Petronas and Huawei.<br/>
   <img src="https://github.com/nawwarahauni/Year1_Sem1/assets/148327549/4ba8b1b7-d20f-4cd5-91a6-32fc50d523c3" height="49.5%" width="49.5%" alt="Encik Habib"/>
   <img src="https://github.com/nawwarahauni/Year1_Sem1/assets/148327549/c84f18df-fce1-4f64-a693-79ac2ebf5a49" height="49.5%" width="49.5%" alt="PPG"/>
   + 17th November: Industry visit to Petronas and Huawei
-  + Assignment 2: 
+  + Assignment 2: [Newsletter Petronas-Huawei](https://github.com/nawwarahauni/Year1_Sem1/blob/main/Technology%20%26%20Information%20Systems/Newsletter%20on%20Industrial%20Visit%20Petronas-Huawei.pdf)
 - ### Assignment 3 <br/>
 This assignment is based on the industry visit to UTM Digital. <br/><br/>
   <img src="https://github.com/nawwarahauni/Year1_Sem1/assets/148327549/43844ba1-bef5-4bed-876f-84d19119297c" height="39.5%" width="39.5%" alt="UTM Digital Visit"/>
