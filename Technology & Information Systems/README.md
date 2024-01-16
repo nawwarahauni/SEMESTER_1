@@ -41,7 +41,7 @@ Writing this report has been an opportunity for me to organize and share my thou
 From this hands-on experience with dissambling and assembling a PC, it allows me to understand the function of each component and how they all work together to create a fully functional machine. This practical exercise provides a better understanding of the hardware concepts from chapter one because I could touch and see everything in action.
 
 ## Design Thinking 
-- Presentation Slide: 
+- Presentation Slide: [Design Thinking Slides](https://github.com/nawwarahauni/Year1_Sem1/blob/main/Technology%20%26%20Information%20Systems/Presentation%20Design%20Thinking%20(Computer%20Hardware)%20-%20Group%207.pdf)
 - Report: [Design Thinking Report](https://github.com/nawwarahauni/Year1_Sem1/blob/main/Technology%20%26%20Information%20Systems/Design%20Thinking%20Report%20(Computer%20Hardware)%20-%20Group%207.pdf)
  > <b>Reflection</b> <br/>
 The design thinking assignment showed me that the importance of teamwork and project management. When we came up with ideas and solutions, it was interesting how everyone in the team had different thoughts. I also learn that effective communication is critical when working in a team. By talking and sharing ideas have made our product more creative and innovative.
