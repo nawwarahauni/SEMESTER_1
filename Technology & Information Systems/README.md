@@ -18,11 +18,12 @@ This assignment is based on the industrial talk from Encik Habib and PPG. <br/><
   > <b>Reflection</b> <br/> By crafting this poster, I got the opportunity to express my creativity and share my message with others. I found posters are a powerful tool for communication, allowing me to convey important information that I got in these talks in a visually appealing way. As I worked on this poster, I also considered the audience I was targeting and the message I wanted to convey. <br/>
 - ### Assignment 3 <br/>
 This assignment is based on the industry visit to UTM Digital. <br/><br/>
-  <p align = "center" > 
-     <img src="https://github.com/nawwarahauni/Year1_Sem1/assets/148327549/c3a1385e-80fb-4bdb-b53b-01e6ca87f9ed" height="80% width="80%" alt="Encik Habib"/>
-  </p>
+  <img src="https://github.com/nawwarahauni/Year1_Sem1/assets/148327549/43844ba1-bef5-4bed-876f-84d19119297c" height="39.5%" width="39.5%" alt="UTM Digital Visit"/>
+  <img src="https://github.com/nawwarahauni/Year1_Sem1/assets/148327549/30a4d36a-d8ae-4db4-8dcd-559748d1afb8" height="60%" width="60%" alt="UTM Digital Visit"/>
+   + 5th December: Virtual industry talk by UTM Digital
    + 13th December: Industry visit to UTM Digital
-   
+
+
    
 
 
