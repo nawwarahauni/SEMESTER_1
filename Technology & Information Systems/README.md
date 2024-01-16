@@ -34,20 +34,18 @@ This assignment is based on the virtual industry talk about system development. 
   + 28th December: Virtual industry talk about System Development@Credence
   + Assignment 4: [System Development Report](https://github.com/nawwarahauni/Year1_Sem1/blob/main/Technology%20%26%20Information%20Systems/Industrial%20Talk%20System%20Development%20Report.pdf)
   > <b>Reflection</b> <br/>
-Writing this report has been an opportunity for me to organize and share my thoughts. It allowed me to understand and summarize the content of the talk. This process not only strengthened my analytical skills but also provided a platform to communicate our opinions and perspective in a clear and structured manner.  
-<br/><br/>
+Writing this report has been an opportunity for me to organize and share my thoughts. It allowed me to understand and summarize the content of the talk. This process not only strengthened my analytical skills but also provided a platform to communicate my opinions and perspective in a clear and structured manner.
 ## PC Assemble
 - 22 November 2023
  > <b>Reflection</b> <br/>
- After 
+From this hands-on experience with dissambling and assembling a PC, it allows me to understand the function of each component and how they all work together to create a fully functional machine. This practical exercise provides a better understanding of the hardware concepts from chapter one because I could touch and see everything in action.
 
 ## Design Thinking 
 - Presentation Slide
 - Report 
  > <b>Reflection</b> <br/>
- Design thinking assignment has 
+The design thinking assignment showed me that the importance of teamwork and project management. When we came up with ideas and solved problems, it was interesting how everyone in the team had different thoughts. I also learn that effective communication is critical when working in a team. By talking and sharing ideas have made our solutions more creative and innovative.
  
-
 
    
 
