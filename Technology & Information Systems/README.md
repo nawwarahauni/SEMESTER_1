@@ -16,6 +16,8 @@ This assignment is based on the industrial talk from Encik Habib and PPG. <br/><
   + 28th October: Industry Talk from PPG (right picture)
   + Assignment 1: [Career Development Poster](https://github.com/nawwarahauni/Year1_Sem1/blob/main/Technology%20%26%20Information%20Systems/Industrial%20Talk%20Career%20Development%20Poster.pdf)
   > <b>Reflection</b> <br/> By crafting this poster, I got the opportunity to express my creativity and share my message with others. I found posters are a powerful tool for communication, allowing me to convey important information that I got in these talks in a visually appealing way. As I worked on this poster, I also considered the audience I was targeting and the message I wanted to convey. <br/>
+- ### Assignment 2<br/>
+This assignment is based on the industry visit to Petronas and Huawei.<br/>
 - ### Assignment 3 <br/>
 This assignment is based on the industry visit to UTM Digital. <br/><br/>
   <img src="https://github.com/nawwarahauni/Year1_Sem1/assets/148327549/43844ba1-bef5-4bed-876f-84d19119297c" height="39.5%" width="39.5%" alt="UTM Digital Visit"/>
