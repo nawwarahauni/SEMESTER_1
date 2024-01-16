@@ -1,12 +1,4 @@
 # Technology & Information Systems
-## Course Content
-- Hardware
-- Software
-- Information Systems & Methodology
-- Databases and Data Analytics
-- Networks and Communications
-- Privacy, Security and Ethics
-- Could Computing
 ## Industry Talk and Industry Visit
 - ### Assignment 1 <br/>
 This assignment is based on the industry talk from Encik Habib and PPG. <br/><br/>
@@ -31,19 +23,30 @@ This assignment is based on the UTM virtual industry talk and industry visit to 
   <img src="https://github.com/nawwarahauni/Year1_Sem1/assets/148327549/30a4d36a-d8ae-4db4-8dcd-559748d1afb8" height="60%" width="60%" alt="UTM Digital Visit"/>
   + 5th December: Virtual industry talk by UTM Digital
   + 13th December: Industry visit to UTM Digital
-  + [UTM Digital Video](https://youtu.be/EDu7X31AlpE)
+  + Assignment 3: [UTM Digital Video](https://youtu.be/EDu7X31AlpE)
   > <b>Reflection</b> <br/>
-Filming this video
+Filming this video has improved my technical skills such as setting up camera and writing a script. It also helps my communication skills by talking in front of the camera clearly and
+concisely. Through the process of making this video, I have learned how to effectively convey my message and engage with my audience. Additionally, I have gained confidence in myself and my abilities. 
 - ### Assignment 4 <br/>
 This assignment is based on the virtual industry talk about system development. <br/><br/>
   <img src="https://github.com/nawwarahauni/Year1_Sem1/assets/148327549/0ae15083-379d-4d0a-b345-5c1c279e518a" height="52.5%" width="51%" alt="Credence Virtual Talk"/>
   <img src="https://github.com/nawwarahauni/Year1_Sem1/assets/148327549/857e185e-2362-4049-9d6a-393a75f7fa1f" height="49%" width="48%" alt="SD Virtual Talk"/>
   + 28th December: Virtual industry talk about System Development@Credence
-  + 
+  + Assignment 4: [System Development Report](https://github.com/nawwarahauni/Year1_Sem1/blob/main/Technology%20%26%20Information%20Systems/Industrial%20Talk%20System%20Development%20Report.pdf)
   > <b>Reflection</b> <br/>
-Writing this report 
+Writing this report has been an opportunity for me to organize and share my thoughts. It allowed me to understand and summarize the content of the talk. This process not only strengthened my analytical skills but also provided a platform to communicate our opinions and perspective in a clear and structured manner.  
+<br/><br/>
+## PC Assemble
+- 22 November 2023
+ > <b>Reflection</b> <br/>
+ After 
 
-
+## Design Thinking 
+- Presentation Slide
+- Report 
+ > <b>Reflection</b> <br/>
+ Design thinking assignment has 
+ 
 
 
    
