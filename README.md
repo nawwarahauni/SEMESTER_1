@@ -2,7 +2,7 @@
 Welcome to my semester 1 journey in UTM! In this semester, I am taking four core courses which is essential in my degree programme. These courses are designed to provide me with a strong foundation in my field of study, and equip me with the necessary skills and knowledge to succeed in my future career. Feel free to click on the course titles below to explore more details about each course. I'm excited to share my learning experiences and insights with you!
 <br/>
 <br/>
-## TECHNOLOGY AND INFORMATION SYSTEMS 
+## TECHNOLOGY AND INFORMATION SYSTEMS ([:pushpin:](https://github.com/nawwarahauni/Year1_Sem1/tree/main/Technology%20%26%20Information%20Systems))
 This course has introduced me to the various aspects of information systems and technologies, which include hardware, software, networks and databases. I also gained hands-on experience in dissambling and installing PC through practical lab. The best part of this course is attending various lectures and industry visits that show us the real working environment and give us valuable insights that we can applied.
 <br/>
 <br/>
