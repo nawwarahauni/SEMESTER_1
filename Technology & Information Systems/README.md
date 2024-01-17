@@ -36,9 +36,10 @@ This assignment is based on the virtual industry talk about system development. 
   > <b>Reflection</b> <br/>
 Writing this report has been an opportunity for me to organize and share my thoughts. It allowed me to understand and summarize the content of the talk. This process not only strengthened my analytical skills but also provided a platform to communicate my opinions and perspective in a clear and structured manner.
 ## PC Assemble
-- 22 November 2023
+- 22 November 2023 : Disassembling and assembling a PC <br/><br/>
+  <img src="https://github.com/nawwarahauni/Year1_Sem1/assets/148327549/6774a192-f0f9-4e4a-98f6-a6b70e5f713c" height="52.5%" width="51%" alt="PC assemble"/>
  > <b>Reflection</b> <br/>
-From this hands-on experience with dissambling and assembling a PC, it allows me to understand the function of each component and how they all work together to create a fully functional machine. This practical exercise provides a better understanding of the hardware concepts from chapter one because I could touch and see everything in action.
+From this hands-on experience with disassembling and assembling a PC, it allows me to understand the function of each component and how they all work together to create a fully functional machine. This practical exercise provides a better understanding of the hardware concepts from chapter one because I could touch and see everything in action.
 
 ## Design Thinking 
 - Presentation Slide: [Design Thinking Slides](https://github.com/nawwarahauni/Year1_Sem1/blob/main/Technology%20%26%20Information%20Systems/Presentation%20Design%20Thinking%20(Computer%20Hardware)%20-%20Group%207.pdf)
