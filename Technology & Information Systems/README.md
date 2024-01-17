@@ -42,6 +42,9 @@ Writing this report has been an opportunity for me to organize and share my thou
 From this hands-on experience with disassembling and assembling a PC, it allows me to understand the function of each component and how they all work together to create a fully functional machine. This practical exercise provides a better understanding of the hardware concepts from chapter one because I could touch and see everything in action.
 
 ## Design Thinking 
+Get to know our product, WATCH.COM <br/><br/>
+![Prototype](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWYzbThuZzR3bGZmc2Jkb21hMjI0cmF4dWVlMGZ2N3h4ZjEzYnNoOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8lyTorE9O59s5A3ucy/giphy.gif)
+- Video: [DESIGN THINKING : WATCH.COM](https://youtu.be/14FR-S98dzE?feature=shared)
 - Presentation Slide: [Design Thinking Slides](https://github.com/nawwarahauni/Year1_Sem1/blob/main/Technology%20%26%20Information%20Systems/Presentation%20Design%20Thinking%20(Computer%20Hardware)%20-%20Group%207.pdf)
 - Report: [Design Thinking Report](https://github.com/nawwarahauni/Year1_Sem1/blob/main/Technology%20%26%20Information%20Systems/Design%20Thinking%20Report%20(Computer%20Hardware)%20-%20Group%207.pdf)
  > <b>Reflection</b> <br/>
