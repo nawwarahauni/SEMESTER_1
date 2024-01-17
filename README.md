@@ -1,5 +1,5 @@
 # SEMESTER 1
-Welcome to my semester 1 journey in UTM! In this semester, I am taking four core courses which is essential in my degree programme. These courses are designed to provide me with a strong foundation in my field of study, and equip me with the necessary skills and knowledge to succeed in my future career. Feel free to click on the course titles below to explore more details about each course. I'm excited to share my learning experiences and insights with you!
+Welcome to my semester 1 journey in UTM! :smile: In this semester, I am taking four core courses which is essential in my degree programme. These courses are designed to provide me with a strong foundation in my field of study, and equip me with the necessary skills and knowledge to succeed in my future career. Feel free to click on the course titles below to explore more details about each course. I'm excited to share my learning experiences and insights with you! :stars:
 <br/>
 <br/>
 ## TECHNOLOGY AND INFORMATION SYSTEMS [:pushpin:](https://github.com/nawwarahauni/Year1_Sem1/tree/main/Technology%20%26%20Information%20Systems)
