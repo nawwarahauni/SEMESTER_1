@@ -6,7 +6,7 @@ Welcome to my semester 1 journey in UTM! In this semester, I am taking four core
 This course has introduced me to the various aspects of information systems and technologies, which include hardware, software, networks and databases. I also gained hands-on experience in dissambling and installing PC through practical lab. The best part of this course is attending various lectures and industry visits that show us the real working environment and give us valuable insights that we can applied.
 <br/>
 <br/>
-## PROGRAMMING TECHNIQUE
+## PROGRAMMING TECHNIQUE [:pushpin:](https://github.com/nawwarahauni/Year1_Sem1/tree/main/Programming%20Technique%20I)
 This course taught me how to programme in the C++ programming language, which is really interesting because I have never programmed in C++ before. I also had the opportunity to enhance and sharpen my problem-solving skills through assignments and lab exercises.
 <br/>
 <br/>
