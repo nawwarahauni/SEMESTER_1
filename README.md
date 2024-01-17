@@ -10,7 +10,7 @@ This course has introduced me to the various aspects of information systems and 
 This course taught me how to programme in the C++ programming language, which is really interesting because I have never programmed in C++ before. I also had the opportunity to enhance and sharpen my problem-solving skills through assignments and lab exercises.
 <br/>
 <br/>
-## DIGITAL LOGIC
+## DIGITAL LOGIC [:pushpin:](https://github.com/nawwarahauni/Year1_Sem1/tree/main/Digital%20Logic)
 This course cover important topics such as components and tools for machines, learning concepts and theories like logic gates, and designing circuits. I also get hands-on experience in the lab where I get to interact with the simulator software and the equipment that are discussed in the class.
 <br/>
 <br/>
