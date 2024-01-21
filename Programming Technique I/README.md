@@ -19,5 +19,5 @@
 - [Temperature Converter and Analyzer](https://github.com/nawwarahauni/SEMESTER_1/blob/main/Programming%20Technique%20I/Coursework/Exercise%203%20Input%20Output.cpp)
 - [Input File](https://github.com/nawwarahauni/SEMESTER_1/blob/main/Programming%20Technique%20I/Coursework/inputFile.txt)<br/><br/>
 > <b>Reflection</b>
-This course significantly enhanced my problem solving skills in computer science by providing a solid mathematical foundation. This educational experience equipped me with the capability to model electronic devices, tackle real-world problems using recurrence relations and graph theory, and fostered a deep understanding of the theoretical dimensions of computer science. The knowledge acquired, which includes set theory, proof strategies, relations, functions, recurrence relations, counting techniques, graph theory, trees, and finite automata, is essential for excelling in the ever-evolving realm of computer science.
+
 
