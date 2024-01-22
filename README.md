@@ -7,7 +7,7 @@ This course has introduced me to the various aspects of information systems and 
 <br/>
 <br/>
 ## [PROGRAMMING TECHNIQUE](https://github.com/nawwarahauni/Year1_Sem1/tree/main/Programming%20Technique%20I)
-This course taught me how to programme in the C++ programming language, which is really interesting because I have never programmed in C++ before. I also had the opportunity to enhance and sharpen my problem-solving skills through assignments and lab exercises.
+This course not only introduced me to the syntax and structure of C++ but also allowed me to apply theoretical knowledge in practical scenarios. The hands-on experience with coding through various assignments and lab exercises expanded my technical proficiency and also fostered a deeper understanding of algorithmic thinking and logical problem-solving strategies.
 <br/>
 <br/>
 ## [DIGITAL LOGIC](https://github.com/nawwarahauni/Year1_Sem1/tree/main/Digital%20Logic)
