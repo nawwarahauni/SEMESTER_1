@@ -46,7 +46,7 @@ Get to know our product, WATCH.COM <br/><br/>
 ![Prototype](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWYzbThuZzR3bGZmc2Jkb21hMjI0cmF4dWVlMGZ2N3h4ZjEzYnNoOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8lyTorE9O59s5A3ucy/giphy.gif)
 - Video: [DESIGN THINKING - WATCH.COM](https://youtu.be/14FR-S98dzE?feature=shared)
 - Report: [Design Thinking Report](https://github.com/nawwarahauni/SEMESTER_1/blob/main/Technology%20%26%20Information%20Systems/Coursework/Design%20Thinking%20Report%20(Computer%20Hardware)%20-%20Group%207.pdf)
-- Presentation Slide: [Design Thinking Slides](https://github.com/nawwarahauni/SEMESTER_1/blob/main/Technology%20%26%20Information%20Systems/Coursework/Presentation%20Design%20Thinking%20(Computer%20Hardware)%20-%20Group%207.pdf)
+- Presentation Slide: [Design Thinking Slides](https://github.com/nawwarahauni/SEMESTER_1/blob/eefd8a6934dd7c994c09ab04b8da7976ea21964a/Technology%20%26%20Information%20Systems/Coursework/Presentation%20Design%20Thinking%20(Computer%20Hardware)%20-%20Group%207.pdf)
  > <b>Reflection</b> <br/>
 The design thinking assignment showed me that the importance of teamwork and project management. When we came up with ideas and solutions, it was interesting how everyone in the team had different thoughts. I also learn that effective communication is critical when working in a team. By talking and sharing ideas have made our product more creative and innovative.
  
